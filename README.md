@@ -5,7 +5,7 @@
 <h1 align="center">~Welcome to my page~ </h1>
 
 <p align="justify">
-Hey there! 👋 I'm a Business Management graduate who found a deep passion for data analyst. Even though my background isn’t in tech, I’ve spent the past 2.5 years working in the data space, building dashboards, optimizing workflows, and creating digital solutions.  
+Hey there! 👋 I'm a Business Management graduate who found a deep passion for data analyst. Even though my background isn’t in tech, I’ve spent the past 3 years working in the data space, building dashboards, optimizing workflows, and creating digital solutions.  
 
 I just started this **GitHub** to **showcase my skills** to proving that **business grads can be just as data-driven as anyone else!** 🚀 I'll be uploading my past projects here, sharing the **real-world cases** I've worked on and continuously improving my skills.  
 
