@@ -15,40 +15,19 @@ Excited to **learn, build, and grow!** 💡📊
 
 ## 🚀 My Tech Stack  
 <p align="center">
-  <a href="https://github.com/yourgithub/PowerApps-Projects">
     <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/PowerBI-Dashboards">
     <img src="https://img.shields.io/badge/PowerBI-FAAF40?style=for-the-badge&logo=powerbi&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/Tableau-Projects">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/Excel-Automation">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/OutSystems-Apps">
     <img src="https://img.shields.io/badge/OutSystems-E3353C?style=for-the-badge&logo=outsystems&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/PowerAutomate-Workflows">
     <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/SQL-Projects">
     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/PostgreSQL-Data">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/Python-Projects">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/SharePoint-Apps">
     <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub/Canva-Designs">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  </a>
 </p>
+
 
 
 ## 🔨 I'm Currently Working On  
