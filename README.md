@@ -38,7 +38,6 @@ Excited to **learn, build, and grow!** 💡📊
 
 
 ## 📚 I'm Currently Learning  
-- 🧠 **R**
 - 📈 **Machine learning**  
 - 🤖 **Data Engineering** 
 
